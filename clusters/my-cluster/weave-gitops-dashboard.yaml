@@ -36,6 +36,6 @@ spec:
   values:
     adminUser:
       create: true
-      passwordHash: $2a$10$JMv188FViOTZmgCxV9tMsuDCQGsuhd1Alu/2V9/Drwx4Oi9iOWZK.
+      passwordHash: $2a$10$1SUhaFloHucsUf.sYxbmE.apC99aJGKAOvK4YS72NNFWk3rj7RAbq
       username: admin
 
